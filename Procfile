@@ -1,1 +1,1 @@
-worker: python3 -m Mickey
+worker: python -m Mickey
